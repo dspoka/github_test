@@ -1,2 +1,1 @@
-something
-text 2
+someCompltely different text hoping for a merge conflicts
