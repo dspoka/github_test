@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 someCompltely different text hoping for a merge conflicts
+=======
+something
+text 2
+blah blah blah
+wait what
+some more text
+>>>>>>> some_new_branch
