@@ -6,4 +6,8 @@ text 2
 blah blah blah
 wait what
 some more text
+<<<<<<< HEAD
+>>>>>>> some_new_branch
+=======
+more text
 >>>>>>> some_new_branch
